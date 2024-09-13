@@ -1,0 +1,25 @@
+# Composer
+vendor/
+
+# PHPStorm
+.idea/
+
+# MacOS
+.DS_Store
+
+# Linux
+*.swp
+
+# NPM modules (se você estiver usando Node.js para o frontend)
+node_modules/
+
+# Build output
+build/
+dist/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+

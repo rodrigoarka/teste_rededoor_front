@@ -1,0 +1,15 @@
+{
+    "name": "locadora-frontend",
+    "version": "1.0.0",
+    "description": "Frontend para a locadora de filmes com PHP, Sass, e JavaScript.",
+    "main": "index.js",
+    "scripts": {
+      "sass": "sass --watch assets/scss:assets/css",
+      "start": "echo 'No start script defined'"
+    },
+    "author": "Seu Nome",
+    "license": "MIT",
+    "devDependencies": {
+      "sass": "^1.32.0"
+    }
+  }
